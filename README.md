@@ -44,10 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=runtime1&theme=radical" alt="GitHub Streak">
 </p>
 
-<!-- Animated contribution graph -->
-<p align="center">
-  <img src="https://github.com/runtime1/runtime1/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 <!-- Footer -->
 <h2 align="center">💡 Fun Fact</h2>
