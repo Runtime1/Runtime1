@@ -37,16 +37,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=runtime1&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runtime1&theme=radical" alt="GitHub Streak">
 </p>
 
 <!-- Animated contribution graph -->
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/runtime1/runtime1/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <!-- Footer -->
@@ -56,13 +56,3 @@
 </p>
 
 ---
-
-## 🛠️ Setup Instructions
-
-1. Create a new repository with the same name as your GitHub username.
-2. Copy the contents of this README.md into that repository's README.md.
-3. Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username in the README.md and in .github/workflows/snake.yml.
-4. Commit and push the changes.
-5. Go to the Actions tab of your repository and manually run the "Generate Snake Animation" workflow.
-6. Set up GitHub Pages for your repository (Settings -> Pages -> Source -> choose 'output' branch).
-7. Wait for the Actions workflow to complete and refresh your profile page to see the updates!
